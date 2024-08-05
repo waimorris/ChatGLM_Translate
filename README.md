@@ -55,6 +55,6 @@ The OpenAI Translator is still in its early stages of development, and I'm activ
 python ai_translator/gradio_server
 ```
 
-![sample_out](images/sample_image_1.png)
+![sample_out](images/sample.png)
 
 
