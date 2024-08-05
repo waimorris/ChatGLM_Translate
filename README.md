@@ -41,11 +41,10 @@ The OpenAI Translator is still in its early stages of development, and I'm activ
 
 ### Environment Setup
 
-1.Clone the repository `git clone git@github.com:DjangoPeng/openai-translator.git`.
+1.Clone the repository `git@github.com:waimorris/ChatGLM_Translate.git`.
 
 2.The `OpenAI-Translator` requires Python 3.10 or later. Install the dependencies with `pip install -r requirements.txt`.
 
-3.Set up your OpenAI API key(`$OPENAI_API_KEY`). You can either add it to your environment variables or specify it in the config.yaml file.
 
 ### Usage
 
