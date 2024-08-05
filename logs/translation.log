@@ -1,0 +1,259 @@
+2024-08-05 15:31:13.747 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\Untitled document.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:31:13.752 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:31:13.966 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:31:13.966 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:31:13.967 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\Untitled document_translated.md
+2024-08-05 15:31:13.968 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\Untitled document_translated.md
+2024-08-05 15:31:21.156 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\Untitled document.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:31:21.161 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:31:21.359 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:31:21.360 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:31:21.360 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\Untitled document_translated.md
+2024-08-05 15:31:21.360 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\Untitled document_translated.md
+2024-08-05 15:32:04.950 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:32:04.954 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:32:05.150 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:32:05.150 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:32:05.150 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:05.150 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:19.122 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:32:19.127 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:32:19.329 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:32:19.330 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:32:19.330 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:19.331 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:20.075 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:32:20.081 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:32:20.298 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:32:20.298 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:32:20.298 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:20.299 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:20.516 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:32:20.520 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:32:20.711 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:32:20.712 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:32:20.712 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:20.713 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:20.860 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:32:20.865 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:32:21.059 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:32:21.060 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:32:21.060 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:32:21.061 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:28.355 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:38:28.368 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:38:28.623 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:38:28.624 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:38:28.624 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:28.624 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:37.338 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:38:37.343 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:38:37.546 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:38:37.547 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:38:37.547 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:37.548 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:41.054 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 15:38:41.057 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:38:41.268 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:38:41.268 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:38:41.268 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:41.268 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:58.479 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:38:58.486 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:38:58.708 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:38:58.709 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:38:58.709 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:38:58.710 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:00.094 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:00.099 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:00.292 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:00.292 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:00.292 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:00.293 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:00.746 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:00.752 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:00.972 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:00.973 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:00.973 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:00.974 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:01.134 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:01.138 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:01.339 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:01.339 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:01.340 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:01.340 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:01.479 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:01.486 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:01.689 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:01.690 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:01.690 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:01.690 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:01.798 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:01.803 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:01.995 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:01.996 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:01.996 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:01.998 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:25.747 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:25.754 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:25.951 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:25.951 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:25.951 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:25.953 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:26.204 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:26.207 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:26.417 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:26.417 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:26.417 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:26.418 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:26.531 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:26.537 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:26.775 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:26.775 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:26.776 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:26.776 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:26.982 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:26.988 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:27.199 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:27.199 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:27.200 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:27.200 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:27.281 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:27.287 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:27.485 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:27.485 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:27.486 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:27.486 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:27.592 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:27.597 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:27.810 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:27.810 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:27.811 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:27.811 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:27.887 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:27.893 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:28.127 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:28.127 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:28.128 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:28.128 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:28.277 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: 
+目标语言: 
+2024-08-05 15:39:28.284 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 15:39:28.500 | ERROR    | translator.translation_chain:run:44 - An error occurred during translation: Request URL is missing an 'http://' or 'https://' protocol.
+2024-08-05 15:39:28.500 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 15:39:28.500 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 15:39:28.501 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 17:31:03.886 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 17:31:03.941 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 17:31:04.215 | ERROR    | translator.translation_chain:run:220 - An error occurred during translation: 'GenerationConfig' object has no attribute '_eos_token_tensor'
+2024-08-05 17:31:04.215 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 17:31:04.215 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 17:31:04.215 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 17:34:24.018 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt.pdf
+源语言: English
+目标语言: Chinese
+2024-08-05 17:34:24.062 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ I love you so much
+2024-08-05 17:42:38.333 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-08-05 17:42:38.373 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
+2024-08-05 17:42:38.388 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\morris\AppData\Local\Temp\gradio\dd04749369950ce3b7c3fa4b03aaed411f28a52c\tt_translated.md
