@@ -57,3 +57,14 @@ python ai_translator/gradio_server
 ![sample_out](images/sample.png)
 
 
+## GPU Inference 
+To use GPU, set device=0 in the ChatGLMPipeline.from_model_id() call.
+
+chat = ChatGLMPipeline.from_model_id(
+ model_id="THUDM/chatglm2-6b",
+ device=0,  # Use 0 for GPU, -1 for CPU
+ model_kwargs={"temperature": 0, "max_length": 5000, "trust_remote_code": True},
+ callback_manager=callback_manager, 
+ verbose=True,
+)
+
